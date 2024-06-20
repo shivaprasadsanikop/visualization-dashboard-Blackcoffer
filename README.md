@@ -1,1 +1,1 @@
-This is a assignment given by a organization named BlackCoffer technologies used for backend java Spring boot for database mysql and for front end react.js libraries used are d3.js, Import the csv file to the table created when u run the AssignmentApplication.java file
+This assignment is provided by an organization named BlackCoffer Technologies. It involves utilizing backend Java Spring Boot with a MySQL database and front-end React.js, utilizing D3.js libraries. When running the AssignmentApplication.java file, import the CSV file into the created table.
